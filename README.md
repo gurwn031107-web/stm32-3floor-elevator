@@ -5,7 +5,7 @@
 
 - 발표 자료: [STM32_Elevator_발표자료.pptx](docs/STM32_Elevator_발표자료.pptx)
 - PC 프로그램: [pc_gui](pc_gui)
-- 기간: 2026.11.05
+- 기간: 2026.11.05 ~ 2026.11.06
 - 보드: NUCLEO-F411RE (STM32F411RE, 100MHz)
 
 ## 기능
